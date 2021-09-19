@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumajjal&label=Profile%20views&color=0e75b6&style=flat" alt="soumajjal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumajjal" alt="soumajjal" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumajjal" alt="soumajjal" /></a> </p> -->
 
-- 🔭 I’m currently working on [LOTLIN](https://github.com/soumajjal/lockdown-traffic-light-indicator.io)
+- 🔭 I’m currently working on [beam](https://github.com/soumajjal/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **something new**
 
 - 👯 I’m looking to collaborate on **something new**
 
-- 🤝 I’m looking for help with [LOTLIN](https://github.com/soumajjal/lockdown-traffic-light-indicator.io)
+- 🤝 I’m looking for help with [beam](https://github.com/soumajjal/)
 
 - 👨‍💻 All of my projects are available at [https://soumajjal.github.io/portfolio.io/](https://soumajjal.github.io/portfolio.io/)
 
 - 📝 I regularly write articles on [https://soumajjal.github.io/portfolio.io/](https://soumajjal.github.io/portfolio.io/)
 
-- 💬 Ask me about **python, django, css, js, UI/UX design**
+- 💬 Ask me about **python, django, css, js, UI/UX design, react**
 
 - 📫 How to reach me **soumajjal@gmail.com**
 
