@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumajjal" alt="soumajjal" /></a> </p> -->
 
-- 🔭 I’m currently working on [beam](https://github.com/soumajjal/)
+- 🔭 I’m currently working on soft computing
 
-- 🌱 I’m currently learning **something new**
+- 🌱 I’m currently learning soft computing
 
-- 👯 I’m looking to collaborate on **something new**
+- 👯 I’m looking to collaborate on AI/ML
 
-- 🤝 I’m looking for help with [beam](https://github.com/soumajjal/)
+- 🤝 I’m looking for help with Modelling
 
 - 👨‍💻 All of my projects are available at [https://soumajjal.github.io/portfolio.io/](https://soumajjal.github.io/portfolio.io/)
 
